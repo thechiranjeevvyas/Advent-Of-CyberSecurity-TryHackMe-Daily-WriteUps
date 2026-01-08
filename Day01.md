@@ -89,7 +89,7 @@ By correlating these records, it became possible to reconstruct portions of McSk
 
 ## 📸 Completion Evidence
 
-![Day 01 Completion Screenshot](./images/day01.png)
+![Day 01 Completion Screenshot](./images/day1.png)
 
 ---
 
