@@ -2,7 +2,7 @@
 
 ## 🔐 IDOR: Santa’s Little IDOR
 
----
+## ![Day 05 Completion Screenshot](./images/day05.png)
 
 ## 🔍 Scenario Summary
 
@@ -115,12 +115,6 @@ The key takeaway is that security must rely on **authorization logic**, not obsc
 ## 💡 Core Insight
 
 > **If ownership isn’t verified server-side, access control is only an illusion.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 05 Completion Screenshot](./images/day05.png)
 
 ---
 

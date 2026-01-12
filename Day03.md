@@ -2,6 +2,8 @@
 
 ## 📊 Splunk Basics: Turning Logs into Answers
 
+![Day 03 Completion Screenshot](./images/day03.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -111,12 +113,6 @@ This confirmed a **complete compromise**, not just a failed attempt.
 ## 💡 Core Insight
 
 > **Logs tell the entire story — a SIEM simply gives them a voice.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 03 Completion Screenshot](./images/day03.png)
 
 ---
 

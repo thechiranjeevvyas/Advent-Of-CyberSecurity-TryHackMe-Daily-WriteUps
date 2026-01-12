@@ -2,6 +2,8 @@
 
 ## 🐧 Linux Fundamentals: Command-Line Investigation
 
+![Day 01 Completion Screenshot](./images/day1.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -86,10 +88,6 @@ By correlating these records, it became possible to reconstruct portions of McSk
 > **Linux rarely forgets — it quietly records. The challenge is knowing where to look.**
 
 ---
-
-## 📸 Completion Evidence
-
-![Day 01 Completion Screenshot](./images/day1.png)
 
 ---
 

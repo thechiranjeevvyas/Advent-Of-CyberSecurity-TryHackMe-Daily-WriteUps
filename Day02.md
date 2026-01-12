@@ -2,6 +2,8 @@
 
 ## 🎣 Social Engineering & Phishing: Crafting a Human-Focused Attack
 
+![Day 02 Completion Screenshot](./images/day02.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -105,12 +107,6 @@ The exercise reinforces why continuous testing is essential.
 ## 💡 Core Insight
 
 > **Security awareness reduces risk — but only constant testing reveals reality.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 02 Completion Screenshot](./images/day02.png)
 
 ---
 

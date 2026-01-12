@@ -2,6 +2,8 @@
 
 ## 🤖 AI in Cyber Security: Working Alongside Van SolveIT
 
+![Day 04 Completion Screenshot](./images/day04.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -106,12 +108,6 @@ Successful completion across all three domains confirms how a single AI assistan
 ## 💡 Core Insight
 
 > **AI increases speed and scale — human judgment preserves accuracy and safety.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 04 Completion Screenshot](./images/day04.png)
 
 ---
 
