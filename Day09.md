@@ -2,6 +2,8 @@
 
 ## 🔐 Password Attacks: A Cracking Christmas
 
+![Day 09 Completion Screenshot](./images/day09.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -93,12 +95,6 @@ These signals provide opportunities for detection through endpoint monitoring ra
 ## 💡 Core Insight
 
 > **Strong algorithms cannot compensate for weak human passwords.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 09 Completion Screenshot](./images/day09.png)
 
 ---
 

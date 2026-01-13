@@ -2,6 +2,8 @@
 
 ## 🎯 XSS Exploitation: Merry XSSMas
 
+![Day 11 Completion Screenshot](./images/day11.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -81,12 +83,6 @@ This behavior confirms stored XSS and exposes the second challenge flag.
 ## 💡 Core Insight
 
 > **Every input field is a potential execution point if trust is misplaced.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 11 Completion Screenshot](./images/day11.png)
 
 ---
 

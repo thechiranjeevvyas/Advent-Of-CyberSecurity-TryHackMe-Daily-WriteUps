@@ -2,6 +2,8 @@
 
 ## 🚨 SOC Alert Triaging: Tinsel Triage
 
+![Day 10 Completion Screenshot](./images/day10.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -95,12 +97,6 @@ These findings confirmed attacker escalation and persistence within the environm
 ## 💡 Core Insight
 
 > **Alert storms are inevitable — disciplined triage is what turns chaos into clarity.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 10 Completion Screenshot](./images/day10.png)
 
 ---
 

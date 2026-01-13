@@ -2,6 +2,8 @@
 
 ## 🌐 Network Discovery: Scan-ta Clause
 
+![Day 07 Completion Screenshot](./images/day07.png)
+
 ---
 
 ## 🔍 Scenario Summary
@@ -92,12 +94,6 @@ A database service listening on its default port was identified, and local acces
 ## 💡 Core Insight
 
 > **Every open port tells a story — thorough discovery is how you learn to read it.**
-
----
-
-## 📸 Completion Evidence
-
-![Day 07 Completion Screenshot](./images/day07.png)
 
 ---
 

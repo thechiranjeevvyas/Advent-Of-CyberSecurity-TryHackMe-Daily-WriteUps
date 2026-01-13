@@ -2,6 +2,8 @@
 
 ## 🧠 Prompt Injection: Sched-yule Conflict
 
+![Day 08 Completion Screenshot](./images/day08.png)
+
 ---
 
 ## 🔍 Scenario Summary
